@@ -118,6 +118,7 @@
 		4F5EAA122A0C1A46009213C3 = {
 			isa = PBXGroup;
 			children = (
+				4F5EAA1E2A0C1A46009213C3 /* LandmarksApp.swift */,
 				4F5EAA1D2A0C1A46009213C3 /* Landmarks */,
 				4F5EAA1C2A0C1A46009213C3 /* Products */,
 			);
@@ -138,7 +139,6 @@
 				4FC429A22A0D934300F54B80 /* Model */,
 				4FC429A32A0D936900F54B80 /* Resources */,
 				4F5EAA222A0C1A48009213C3 /* Assets.xcassets */,
-				4F5EAA1E2A0C1A46009213C3 /* LandmarksApp.swift */,
 				4F5EAA242A0C1A48009213C3 /* Preview Content */,
 			);
 			path = Landmarks;
